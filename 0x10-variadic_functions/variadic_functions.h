@@ -2,6 +2,7 @@
 #define VARIADIC_FINCTIONS_H
 
 #include <stdarg.h>
+#include <stdio.h>
 
 /**
  * struct printer - a new struct type defining printer
